@@ -7,8 +7,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "yarn run build && next export && mv out _static"
   },
+  "//Add 'engines' for deploying -> engines" : {"node": "14.x"},
   "dependencies": {
     "next": "^12.2.2",
     "prism-theme-night-owl": "^1.4.0",
