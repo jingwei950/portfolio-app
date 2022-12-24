@@ -20,7 +20,7 @@ git clone https://github.com/reactbricks/nextjs-starter-reactbricks-tailwind you
 ```
 Run `yarn run build` to build the project
 Run `yarn run dev` to run the project
-Go to `http://localhost:3000/admin` to edit the project test
+Go to `http://localhost:3000/admin` to edit the project test.
 ## 📖 Documentation
 
 Please, read our documentation at [Reactbricks.com](https://reactbricks.com).
